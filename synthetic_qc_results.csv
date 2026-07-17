@@ -1,8 +1,0 @@
-[
-  "tests/test_qc_pipeline.py::test_batch_summary_preserves_all_batches",
-  "tests/test_qc_pipeline.py::test_generated_dataset_is_reproducible",
-  "tests/test_qc_pipeline.py::test_known_out_of_specification_result_is_flagged",
-  "tests/test_qc_pipeline.py::test_known_out_of_trend_result_is_flagged",
-  "tests/test_qc_pipeline.py::test_validation_rejects_duplicate_sample_id",
-  "tests/test_qc_pipeline.py::test_validation_rejects_missing_column"
-]
